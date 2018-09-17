@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 38e15e2d7dc444343b092a39fc5d5cd1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANIM_P:j_head_01_bind
+    100002: ANIM_P:j_head_02
+    100004: ANIM_P:j_hips
+    100006: ANIM_P:j_jaw_01_bind
+    100008: ANIM_P:j_jaw_02
+    100010: ANIM_P:j_left_ankle_bind
+    100012: ANIM_P:j_left_ankle_bind 1
+    100014: ANIM_P:j_left_ball_bind
+    100016: ANIM_P:j_left_clavical_bind
+    100018: ANIM_P:j_left_elbo_bind
+    100020: ANIM_P:j_left_eye_01_bind
+    100022: ANIM_P:j_left_eye_02
+    100024: ANIM_P:j_left_heel_01_bind
+    100026: ANIM_P:j_left_heel_02_bind
+    100028: ANIM_P:j_left_heel_03
+    100030: ANIM_P:j_left_hip_bind
+    100032: ANIM_P:j_left_knee_bind
+    100034: ANIM_P:j_left_shoulder_bind
+    100036: ANIM_P:j_left_thigh_bind
+    100038: ANIM_P:j_left_toe
+    100040: ANIM_P:j_left_toe01_01_bind
+    100042: ANIM_P:j_left_toe01_02_bind
+    100044: ANIM_P:j_left_toe01_03
+    100046: ANIM_P:j_left_toe02_01_bind
+    100048: ANIM_P:j_left_toe02_02_bind
+    100050: ANIM_P:j_left_toe02_03
+    100052: ANIM_P:j_left_toe03_01_bind
+    100054: ANIM_P:j_left_toe03_02_bind
+    100056: ANIM_P:j_left_toe03_03
+    100058: ANIM_P:j_left_toe04_01_bind
+    100060: ANIM_P:j_left_toe04_02_bind
+    100062: ANIM_P:j_left_toe04_03
+    100064: ANIM_P:j_left_toe05_01_bind
+    100066: ANIM_P:j_left_toe05_02_bind
+    100068: ANIM_P:j_left_toe05_03
+    100070: ANIM_P:j_neck_01_bind
+    100072: ANIM_P:j_neck_02_bind
+    100074: ANIM_P:j_neck_03_bind
+    100076: ANIM_P:j_neck_04_bind
+    100078: ANIM_P:j_neck_05_bind
+    100080: ANIM_P:j_neck_06_bind
+    100082: ANIM_P:j_neck_07_bind
+    100084: ANIM_P:j_neck_08
+    100086: ANIM_P:j_neckBase
+    100088: ANIM_P:j_right_ankle_bind
+    100090: ANIM_P:j_right_ankle_bind 1
+    100092: ANIM_P:j_right_ball_bind
+    100094: ANIM_P:j_right_clavical_bind
+    100096: ANIM_P:j_right_elbo_bind
+    100098: ANIM_P:j_right_eye_01_bind
+    100100: ANIM_P:j_right_eye_02
+    100102: ANIM_P:j_right_heel_01_bind
+    100104: ANIM_P:j_right_heel_02_bind
+    100106: ANIM_P:j_right_heel_03
+    100108: ANIM_P:j_right_hip_bind
+    100110: ANIM_P:j_right_knee_bind
+    100112: ANIM_P:j_right_shoulder_bind
+    100114: ANIM_P:j_right_thigh_bind
+    100116: ANIM_P:j_right_toe
+    100118: ANIM_P:j_right_toe01_01_bind
+    100120: ANIM_P:j_right_toe01_02_bind
+    100122: ANIM_P:j_right_toe01_03
+    100124: ANIM_P:j_right_toe02_01_bind
+    100126: ANIM_P:j_right_toe02_02_bind
+    100128: ANIM_P:j_right_toe02_03
+    100130: ANIM_P:j_right_toe03_01_bind
+    100132: ANIM_P:j_right_toe03_02_bind
+    100134: ANIM_P:j_right_toe03_03
+    100136: ANIM_P:j_right_toe04_01_bind
+    100138: ANIM_P:j_right_toe04_02_bind
+    100140: ANIM_P:j_right_toe04_03
+    100142: ANIM_P:j_right_toe05_01_bind
+    100144: ANIM_P:j_right_toe05_02_bind
+    100146: ANIM_P:j_right_toe05_03
+    100148: ANIM_P:j_spine_01_bind
+    100150: ANIM_P:j_spine_02_bind
+    100152: ANIM_P:j_spine_03_bind
+    100154: ANIM_P:j_spine_04
+    100156: ANIM_P:j_tail_01_bind
+    100158: ANIM_P:j_tail_02_bind
+    100160: ANIM_P:j_tail_03_bind
+    100162: ANIM_P:j_tail_04_bind
+    100164: ANIM_P:j_tail_05_bind
+    100166: ANIM_P:j_tail_06_bind
+    100168: ANIM_P:j_tail_07_bind
+    100170: ANIM_P:j_tail_08_bind
+    100172: ANIM_P:j_tail_09_bind
+    100174: ANIM_P:j_tail_10_bind
+    100176: ANIM_P:j_tail_11
+    100178: eye
+    100180: mesh:paulBase_02:polySurface12
+    100182: teeth
+    100184: //RootNode
+    100186: transform1
+    400000: ANIM_P:j_head_01_bind
+    400002: ANIM_P:j_head_02
+    400004: ANIM_P:j_hips
+    400006: ANIM_P:j_jaw_01_bind
+    400008: ANIM_P:j_jaw_02
+    400010: ANIM_P:j_left_ankle_bind
+    400012: ANIM_P:j_left_ankle_bind 1
+    400014: ANIM_P:j_left_ball_bind
+    400016: ANIM_P:j_left_clavical_bind
+    400018: ANIM_P:j_left_elbo_bind
+    400020: ANIM_P:j_left_eye_01_bind
+    400022: ANIM_P:j_left_eye_02
+    400024: ANIM_P:j_left_heel_01_bind
+    400026: ANIM_P:j_left_heel_02_bind
+    400028: ANIM_P:j_left_heel_03
+    400030: ANIM_P:j_left_hip_bind
+    400032: ANIM_P:j_left_knee_bind
+    400034: ANIM_P:j_left_shoulder_bind
+    400036: ANIM_P:j_left_thigh_bind
+    400038: ANIM_P:j_left_toe
+    400040: ANIM_P:j_left_toe01_01_bind
+    400042: ANIM_P:j_left_toe01_02_bind
+    400044: ANIM_P:j_left_toe01_03
+    400046: ANIM_P:j_left_toe02_01_bind
+    400048: ANIM_P:j_left_toe02_02_bind
+    400050: ANIM_P:j_left_toe02_03
+    400052: ANIM_P:j_left_toe03_01_bind
+    400054: ANIM_P:j_left_toe03_02_bind
+    400056: ANIM_P:j_left_toe03_03
+    400058: ANIM_P:j_left_toe04_01_bind
+    400060: ANIM_P:j_left_toe04_02_bind
+    400062: ANIM_P:j_left_toe04_03
+    400064: ANIM_P:j_left_toe05_01_bind
+    400066: ANIM_P:j_left_toe05_02_bind
+    400068: ANIM_P:j_left_toe05_03
+    400070: ANIM_P:j_neck_01_bind
+    400072: ANIM_P:j_neck_02_bind
+    400074: ANIM_P:j_neck_03_bind
+    400076: ANIM_P:j_neck_04_bind
+    400078: ANIM_P:j_neck_05_bind
+    400080: ANIM_P:j_neck_06_bind
+    400082: ANIM_P:j_neck_07_bind
+    400084: ANIM_P:j_neck_08
+    400086: ANIM_P:j_neckBase
+    400088: ANIM_P:j_right_ankle_bind
+    400090: ANIM_P:j_right_ankle_bind 1
+    400092: ANIM_P:j_right_ball_bind
+    400094: ANIM_P:j_right_clavical_bind
+    400096: ANIM_P:j_right_elbo_bind
+    400098: ANIM_P:j_right_eye_01_bind
+    400100: ANIM_P:j_right_eye_02
+    400102: ANIM_P:j_right_heel_01_bind
+    400104: ANIM_P:j_right_heel_02_bind
+    400106: ANIM_P:j_right_heel_03
+    400108: ANIM_P:j_right_hip_bind
+    400110: ANIM_P:j_right_knee_bind
+    400112: ANIM_P:j_right_shoulder_bind
+    400114: ANIM_P:j_right_thigh_bind
+    400116: ANIM_P:j_right_toe
+    400118: ANIM_P:j_right_toe01_01_bind
+    400120: ANIM_P:j_right_toe01_02_bind
+    400122: ANIM_P:j_right_toe01_03
+    400124: ANIM_P:j_right_toe02_01_bind
+    400126: ANIM_P:j_right_toe02_02_bind
+    400128: ANIM_P:j_right_toe02_03
+    400130: ANIM_P:j_right_toe03_01_bind
+    400132: ANIM_P:j_right_toe03_02_bind
+    400134: ANIM_P:j_right_toe03_03
+    400136: ANIM_P:j_right_toe04_01_bind
+    400138: ANIM_P:j_right_toe04_02_bind
+    400140: ANIM_P:j_right_toe04_03
+    400142: ANIM_P:j_right_toe05_01_bind
+    400144: ANIM_P:j_right_toe05_02_bind
+    400146: ANIM_P:j_right_toe05_03
+    400148: ANIM_P:j_spine_01_bind
+    400150: ANIM_P:j_spine_02_bind
+    400152: ANIM_P:j_spine_03_bind
+    400154: ANIM_P:j_spine_04
+    400156: ANIM_P:j_tail_01_bind
+    400158: ANIM_P:j_tail_02_bind
+    400160: ANIM_P:j_tail_03_bind
+    400162: ANIM_P:j_tail_04_bind
+    400164: ANIM_P:j_tail_05_bind
+    400166: ANIM_P:j_tail_06_bind
+    400168: ANIM_P:j_tail_07_bind
+    400170: ANIM_P:j_tail_08_bind
+    400172: ANIM_P:j_tail_09_bind
+    400174: ANIM_P:j_tail_10_bind
+    400176: ANIM_P:j_tail_11
+    400178: eye
+    400180: mesh:paulBase_02:polySurface12
+    400182: teeth
+    400184: //RootNode
+    400186: transform1
+    2100000: eye1
+    2100002: neck_tail
+    2100004: body
+    2100006: head
+    4300000: teeth
+    4300002: mesh:paulBase_02:polySurface12
+    4300004: eye
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eye
+    13700002: mesh:paulBase_02:polySurface12
+    13700004: teeth
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: a8d700b7dfd3621468aff9dd425f2e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye1
+    second: {fileID: 2100000, guid: 58b6dbcde0e6f1e42821ec9a73afc020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head
+    second: {fileID: 2100000, guid: 9bd96fb7d212a57488bce3998247747f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neck_tail
+    second: {fileID: 2100000, guid: 40731c1b97fdd614d92b3ee4a4ac0de2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
