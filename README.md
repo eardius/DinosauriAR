@@ -22,7 +22,7 @@ Dabei muss folgendes beachtet werden:
 In der Anwendung muss die Kamera des Smartphones erst mindestens eine horizontale Fläche erkennen. Danach kann der Benutzer mittels eines Taps auf dem Bildschirm das Portal in die andere/virtuelle Welt erstellen und hindurch gehen. 
 
 Gleichzeitig können zwei Bilder augmentiert werden:
-https://github.com/eardius/DinosauriAR/raw/master/Assets/ARCore%20Images/plant.jpg
-https://github.com/eardius/DinosauriAR/raw/master/Assets/ARCore%20Images/steak.png
+- https://github.com/eardius/DinosauriAR/raw/master/Assets/ARCore%20Images/plant.jpg
+- https://github.com/eardius/DinosauriAR/raw/master/Assets/ARCore%20Images/steak.png
 
 Das Erkennen der Bilder kann sich manchmal als etwas schwierig erweisen. Am Besten funktioniert es, wenn die Kamera direkt über dem Bild gehalten und minimal geschwenkt wird. Wenn sich die augmentierten Nahrungsmittel und das Smartphone in der virtuellen Welt befinden, sollten die Dinosaurier, wenn sie in der Nähe sind, darauf reagieren. 
